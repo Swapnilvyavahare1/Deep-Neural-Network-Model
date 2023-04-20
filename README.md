@@ -1,4 +1,4 @@
-# First-Neural-Network-Model
+# Deep-Neural-Network-Model
 
 Regression problem
 File: Boston.csv
