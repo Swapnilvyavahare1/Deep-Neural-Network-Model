@@ -4,6 +4,7 @@ Regression problem
 File: Boston.csv
 Method: DNN
 
+Steps in Building DNN model-
 1) Sequential API
 2) Adding first hidden layer
 3) Adding second hidden layer
